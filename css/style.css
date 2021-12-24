@@ -1,0 +1,31 @@
+body {
+  background: no-repeat
+    url(https://www.jwshirtworks.com/wp-content/uploads/Blue-Background-Sof-977.jpg);
+}
+h1 {
+  text-align: center;
+  color: #0d6efd;
+}
+
+.btn-edit img,
+.btn-delete img {
+  width: 20px;
+}
+.btn-delete,
+.btn-edit {
+  border: none;
+  background: none;
+}
+
+.table {
+  background: white;
+  border-radius: 3%;
+}
+.add-form {
+  border-radius: 3%;
+}
+.form-search {
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 3%;
+}
